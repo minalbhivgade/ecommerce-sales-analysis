@@ -52,6 +52,10 @@ Welcome to my latest project: an in-depth Power BI dashboard analysis of e-comme
 ### Parameters:
 - A numeric range slicer named "Growth Rate" from 0 to 1 is used to show actual sales and forecasted sales based on the growth rate.
 
+## E-commerce Sales Dashboard
+![E-commerce Sales Dashboard](https://drive.google.com/uc?export=view&id=1EIe3p_9BI4BQdR4h87rv0InoIyVHaiwI)
+
+
 ## Key Insights and Recommendations:
 1. **Customer Retention:** Develop loyalty programs and personalized marketing for top customers.
 2. **Seasonal Promotions:** Implement targeted promotions during low-profit months.
